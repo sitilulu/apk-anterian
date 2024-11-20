@@ -58,6 +58,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             <center>
                 <h2>Form Sign Up</h2>
+                ghgfhgfhjs
             </center>
             <form method="POST">
                 <!-- Email input -->
